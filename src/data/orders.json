@@ -1,0 +1,3434 @@
+[
+  {
+    "id": "NJ2026102501",
+    "displayNo": "48",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 11.7,
+    "bonus": 3,
+    "bonusLabel": "15:15前送达，再奖 ¥3.0",
+    "remainingMin": 21,
+    "deadline": "15:16前",
+    "tags": [
+      "天气加分",
+      "服务分"
+    ],
+    "merchant": {
+      "name": "金陵小馆（鼓楼店）",
+      "category": "小吃 · 凉粉",
+      "address": "鼓楼区中央路 88 号 8 幢 101 门面",
+      "distanceKm": 0.8,
+      "emoji": "🍜"
+    },
+    "customer": {
+      "name": "王**",
+      "tail": "3721",
+      "address": "玄武区北京东路 26 号 3 幢 1102",
+      "distanceKm": 3.2,
+      "note": "请放至门口鞋柜，勿敲门。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "0.6 公斤",
+      "count": 2,
+      "paid": 34.5,
+      "summary": "餐饮 · 0.6 公斤 · 2 件",
+      "items": [
+        {
+          "name": "桂花酒酿小圆子",
+          "qty": 1,
+          "price": 15
+        },
+        {
+          "name": "鲜肉锅贴（6只）",
+          "qty": 1,
+          "price": 19.5
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        63,
+        35
+      ],
+      "delivery": [
+        37,
+        79
+      ],
+      "via": [
+        [
+          61,
+          45
+        ],
+        [
+          53,
+          51
+        ],
+        [
+          48,
+          63
+        ],
+        [
+          42,
+          71
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102502",
+    "displayNo": "210",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 18.7,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 29,
+    "deadline": "21:03前",
+    "tags": [
+      "商家已确认出货"
+    ],
+    "merchant": {
+      "name": "青禾便利（湖南路店）",
+      "category": "商超便利",
+      "address": "鼓楼区湖南路 66 号 G06 商铺",
+      "distanceKm": 1.8,
+      "emoji": "🏪"
+    },
+    "customer": {
+      "name": "李**",
+      "tail": "0872",
+      "address": "鼓楼区云南北路 18 号 2 幢 604",
+      "distanceKm": 3.9,
+      "note": "如遇缺货，请先电话沟通。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "商超便利",
+      "weight": "0.559 公斤",
+      "count": 3,
+      "paid": 18.41,
+      "summary": "商超便利 · 0.559 公斤 · 3 件",
+      "items": [
+        {
+          "name": "脆脆鲨巧克力威化饼干 18.6g",
+          "qty": 1,
+          "price": 1.51
+        },
+        {
+          "name": "无糖乌龙茶 500ml",
+          "qty": 1,
+          "price": 4.6
+        },
+        {
+          "name": "原味海苔脆片 22g",
+          "qty": 1,
+          "price": 12.3
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        58,
+        42
+      ],
+      "delivery": [
+        40,
+        74
+      ],
+      "via": [
+        [
+          55,
+          51
+        ],
+        [
+          50,
+          60
+        ],
+        [
+          46,
+          66
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102503",
+    "displayNo": "102",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 14.2,
+    "bonus": 2,
+    "bonusLabel": "16:20前送达，再奖 ¥2.0",
+    "remainingMin": 38,
+    "deadline": "16:32前",
+    "tags": [
+      "同城",
+      "鲜花专送"
+    ],
+    "merchant": {
+      "name": "云上花房（新街口店）",
+      "category": "鲜花 · 绿植",
+      "address": "秦淮区中山南路 120 号 1 层",
+      "distanceKm": 2.2,
+      "emoji": "💐"
+    },
+    "customer": {
+      "name": "周**",
+      "tail": "5906",
+      "address": "秦淮区户部街 9 号 4 幢 1801",
+      "distanceKm": 4.1,
+      "note": "请轻拿轻放，送达后电话联系。",
+      "tags": [
+        "同城"
+      ]
+    },
+    "goods": {
+      "category": "鲜花",
+      "weight": "1.2 公斤",
+      "count": 1,
+      "paid": 168,
+      "summary": "鲜花 · 1.2 公斤 · 1 件",
+      "items": [
+        {
+          "name": "香槟玫瑰混搭花束",
+          "qty": 1,
+          "price": 168
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        48,
+        33
+      ],
+      "delivery": [
+        68,
+        76
+      ],
+      "via": [
+        [
+          49,
+          45
+        ],
+        [
+          53,
+          55
+        ],
+        [
+          60,
+          64
+        ],
+        [
+          64,
+          70
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102504",
+    "displayNo": "76",
+    "cityId": "nanjing",
+    "status": "accepted",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 8.5,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 17,
+    "deadline": "18:05前",
+    "tags": [
+      "商家已出货"
+    ],
+    "merchant": {
+      "name": "巷口面馆（鸡鸣寺店）",
+      "category": "餐饮 · 面食",
+      "address": "玄武区鸡鸣寺路 9 号 1 层",
+      "distanceKm": 1.1,
+      "emoji": "🍜"
+    },
+    "customer": {
+      "name": "赵**",
+      "tail": "4188",
+      "address": "玄武区成贤街 57 号 5 幢 302",
+      "distanceKm": 2.6,
+      "note": "不要辣，餐具放一份。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "0.4 公斤",
+      "count": 1,
+      "paid": 26,
+      "summary": "餐饮 · 0.4 公斤 · 1 件",
+      "items": [
+        {
+          "name": "菌菇鸡汤面",
+          "qty": 1,
+          "price": 26
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        52,
+        39
+      ],
+      "delivery": [
+        43,
+        69
+      ],
+      "via": [
+        [
+          54,
+          49
+        ],
+        [
+          50,
+          57
+        ],
+        [
+          46,
+          63
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102505",
+    "displayNo": "58",
+    "cityId": "nanjing",
+    "status": "picked",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 12.6,
+    "bonus": 1,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 11,
+    "deadline": "18:22前",
+    "tags": [
+      "已取货",
+      "保温箱"
+    ],
+    "merchant": {
+      "name": "猫爪咖啡（珠江路店）",
+      "category": "咖啡 · 烘焙",
+      "address": "玄武区珠江路 188 号 1 层",
+      "distanceKm": 2.7,
+      "emoji": "☕"
+    },
+    "customer": {
+      "name": "孙**",
+      "tail": "2605",
+      "address": "玄武区太平北路 35 号 2 幢 906",
+      "distanceKm": 1.4,
+      "note": "请放在前台，谢谢。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "咖啡",
+      "weight": "0.5 公斤",
+      "count": 2,
+      "paid": 42,
+      "summary": "咖啡 · 0.5 公斤 · 2 件",
+      "items": [
+        {
+          "name": "燕麦拿铁（热）",
+          "qty": 1,
+          "price": 24
+        },
+        {
+          "name": "海盐可颂",
+          "qty": 1,
+          "price": 18
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        47,
+        43
+      ],
+      "delivery": [
+        61,
+        70
+      ],
+      "via": [
+        [
+          54,
+          50
+        ],
+        [
+          57,
+          58
+        ],
+        [
+          59,
+          64
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102506",
+    "displayNo": "156",
+    "cityId": "nanjing",
+    "status": "accepted",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 9.3,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 16,
+    "deadline": "待更新前",
+    "tags": [
+      "待取货",
+      "商家已出货"
+    ],
+    "merchant": {
+      "name": "鸡鸣汤包（鼓楼店）",
+      "category": "餐饮 · 汤包",
+      "address": "鼓楼区广州路 12 号 1 层",
+      "distanceKm": 0.6,
+      "emoji": "🥟"
+    },
+    "customer": {
+      "name": "陈**",
+      "tail": "6318",
+      "address": "鼓楼区中山北路 105 号 2 幢 1204",
+      "distanceKm": 2.6,
+      "note": "汤包请平放，避免汤汁洒出。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "0.5 公斤",
+      "count": 2,
+      "paid": 32,
+      "summary": "餐饮 · 0.5 公斤 · 2 件",
+      "items": [
+        {
+          "name": "鸡鸣汤包（8只）",
+          "qty": 1,
+          "price": 18
+        },
+        {
+          "name": "鸭血粉丝汤",
+          "qty": 1,
+          "price": 14
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        56,
+        29
+      ],
+      "delivery": [
+        34,
+        77
+      ],
+      "via": [
+        [
+          42,
+          49
+        ],
+        [
+          43,
+          58
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102507",
+    "displayNo": "317",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 15.6,
+    "bonus": 2,
+    "bonusLabel": "按时送达再奖 ¥2.0",
+    "remainingMin": 32,
+    "deadline": "待更新前",
+    "tags": [
+      "同城",
+      "防水包装"
+    ],
+    "merchant": {
+      "name": "南大书店（广州路店）",
+      "category": "图书 · 文创",
+      "address": "鼓楼区广州路 20 号 1 层",
+      "distanceKm": 1.2,
+      "emoji": "📚"
+    },
+    "customer": {
+      "name": "孙**",
+      "tail": "9012",
+      "address": "玄武区珠江路 435 号 3 幢 806",
+      "distanceKm": 3.4,
+      "note": "书籍请做好防水包装。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "图书",
+      "weight": "1.3 公斤",
+      "count": 2,
+      "paid": 58,
+      "summary": "图书 · 1.3 公斤 · 2 件",
+      "items": [
+        {
+          "name": "考研英语真题",
+          "qty": 1,
+          "price": 46
+        },
+        {
+          "name": "中性笔套装",
+          "qty": 1,
+          "price": 12
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        49,
+        34
+      ],
+      "delivery": [
+        43,
+        80
+      ],
+      "via": [
+        [
+          46,
+          53
+        ],
+        [
+          49,
+          62
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102508",
+    "displayNo": "92",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 16.8,
+    "bonus": 3,
+    "bonusLabel": "提前送达再奖 ¥3.0",
+    "remainingMin": 24,
+    "deadline": "待更新前",
+    "tags": [
+      "天气加分",
+      "甜品专送"
+    ],
+    "merchant": {
+      "name": "老门东糖芋苗（秦淮店）",
+      "category": "小吃 · 甜品",
+      "address": "秦淮区三条营 18 号",
+      "distanceKm": 0.9,
+      "emoji": "🍡"
+    },
+    "customer": {
+      "name": "吴**",
+      "tail": "3754",
+      "address": "雨花台区软件大道 168 号 5 幢 1105",
+      "distanceKm": 5.2,
+      "note": "甜品请分开打包，谢谢。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "甜品",
+      "weight": "0.7 公斤",
+      "count": 3,
+      "paid": 39,
+      "summary": "甜品 · 0.7 公斤 · 3 件",
+      "items": [
+        {
+          "name": "桂花糖芋苗",
+          "qty": 2,
+          "price": 12
+        },
+        {
+          "name": "梅花糕",
+          "qty": 1,
+          "price": 15
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        42,
+        39
+      ],
+      "delivery": [
+        52,
+        72
+      ],
+      "via": [
+        [
+          50,
+          52
+        ],
+        [
+          45,
+          61
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102509",
+    "displayNo": "228",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 13.4,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 27,
+    "deadline": "待更新前",
+    "tags": [
+      "生鲜优先",
+      "轻拿轻放"
+    ],
+    "merchant": {
+      "name": "德基鲜果（新街口店）",
+      "category": "水果 · 生鲜",
+      "address": "玄武区中山路 18 号 B1 层",
+      "distanceKm": 1.7,
+      "emoji": "🍉"
+    },
+    "customer": {
+      "name": "郑**",
+      "tail": "2086",
+      "address": "建邺区江东中路 98 号 2 幢 1502",
+      "distanceKm": 4.8,
+      "note": "水果放门口即可，不用敲门。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "水果",
+      "weight": "2.4 公斤",
+      "count": 4,
+      "paid": 88,
+      "summary": "水果 · 2.4 公斤 · 4 件",
+      "items": [
+        {
+          "name": "阳光玫瑰葡萄",
+          "qty": 1,
+          "price": 39.9
+        },
+        {
+          "name": "云南蓝莓",
+          "qty": 2,
+          "price": 24.1
+        },
+        {
+          "name": "红心火龙果",
+          "qty": 1,
+          "price": 24
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        54,
+        29
+      ],
+      "delivery": [
+        34,
+        75
+      ],
+      "via": [
+        [
+          41,
+          48
+        ],
+        [
+          47,
+          57
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102510",
+    "displayNo": "611",
+    "cityId": "nanjing",
+    "status": "delivered",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 7.6,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 0,
+    "deadline": "已完成",
+    "tags": [
+      "已送达",
+      "隐私包装"
+    ],
+    "merchant": {
+      "name": "先锋药房（山西路店）",
+      "category": "医药健康",
+      "address": "鼓楼区山西路 8 号",
+      "distanceKm": 0.7,
+      "emoji": "💊"
+    },
+    "customer": {
+      "name": "郭**",
+      "tail": "5142",
+      "address": "鼓楼区湖南路 101 号 6 幢 503",
+      "distanceKm": 2.3,
+      "note": "请交到小区门卫处。",
+      "tags": [
+        "隐私包装"
+      ]
+    },
+    "goods": {
+      "category": "医药",
+      "weight": "0.2 公斤",
+      "count": 1,
+      "paid": 45.8,
+      "summary": "医药 · 0.2 公斤 · 1 件",
+      "items": [
+        {
+          "name": "家庭常备药盒",
+          "qty": 1,
+          "price": 45.8
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        47,
+        34
+      ],
+      "delivery": [
+        43,
+        78
+      ],
+      "via": [
+        [
+          45,
+          52
+        ],
+        [
+          43,
+          61
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102511",
+    "displayNo": "183",
+    "cityId": "nanjing",
+    "status": "cancelled",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 12.9,
+    "bonus": 0,
+    "bonusLabel": "订单已取消",
+    "remainingMin": 0,
+    "deadline": "已取消",
+    "tags": [
+      "已取消",
+      "用户取消"
+    ],
+    "merchant": {
+      "name": "金陵烤鸭（云南路店）",
+      "category": "餐饮 · 卤味",
+      "address": "鼓楼区云南路 21 号 1 层",
+      "distanceKm": 1.4,
+      "emoji": "🦆"
+    },
+    "customer": {
+      "name": "蒋**",
+      "tail": "7429",
+      "address": "鼓楼区北京西路 72 号 4 幢 902",
+      "distanceKm": 2.9,
+      "note": "用户已取消订单。",
+      "tags": [
+        "用户取消"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "1.1 公斤",
+      "count": 2,
+      "paid": 76,
+      "summary": "餐饮 · 1.1 公斤 · 2 件",
+      "items": [
+        {
+          "name": "金陵盐水鸭",
+          "qty": 1,
+          "price": 56
+        },
+        {
+          "name": "鸭油酥烧饼",
+          "qty": 4,
+          "price": 20
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        59,
+        39
+      ],
+      "delivery": [
+        52,
+        70
+      ],
+      "via": [
+        [
+          59,
+          51
+        ],
+        [
+          59,
+          60
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102512",
+    "displayNo": "405",
+    "cityId": "nanjing",
+    "status": "accepted",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 10.8,
+    "bonus": 1,
+    "bonusLabel": "准时送达再奖 ¥1.0",
+    "remainingMin": 22,
+    "deadline": "待更新前",
+    "tags": [
+      "待取货",
+      "咖啡专送"
+    ],
+    "merchant": {
+      "name": "城墙咖啡（解放门店）",
+      "category": "咖啡 · 烘焙",
+      "address": "秦淮区解放路 36 号 1 层",
+      "distanceKm": 1.1,
+      "emoji": "☕"
+    },
+    "customer": {
+      "name": "何**",
+      "tail": "8065",
+      "address": "秦淮区大光路 118 号 2 幢 1601",
+      "distanceKm": 3,
+      "note": "咖啡请套杯托，放置前台。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "咖啡",
+      "weight": "0.8 公斤",
+      "count": 2,
+      "paid": 42,
+      "summary": "咖啡 · 0.8 公斤 · 2 件",
+      "items": [
+        {
+          "name": "桂花拿铁",
+          "qty": 1,
+          "price": 24
+        },
+        {
+          "name": "海盐可颂",
+          "qty": 1,
+          "price": 18
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        52,
+        29
+      ],
+      "delivery": [
+        34,
+        73
+      ],
+      "via": [
+        [
+          40,
+          47
+        ],
+        [
+          41,
+          56
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102513",
+    "displayNo": "126",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 14.6,
+    "bonus": 2,
+    "bonusLabel": "按时送达再奖 ¥2.0",
+    "remainingMin": 23,
+    "deadline": "待更新前",
+    "tags": [
+      "天气加分",
+      "餐饮专送"
+    ],
+    "merchant": {
+      "name": "南京大牌档（德基店）",
+      "category": "餐饮 · 金陵菜",
+      "address": "玄武区中山路 18 号 7 层",
+      "distanceKm": 1.1,
+      "emoji": "🥢"
+    },
+    "customer": {
+      "name": "袁**",
+      "tail": "5632",
+      "address": "秦淮区龙蟠中路 218 号 3 幢 1201",
+      "distanceKm": 3.8,
+      "note": "汤汁请密封，餐具放两份。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "1.4 公斤",
+      "count": 3,
+      "paid": 116,
+      "summary": "餐饮 · 1.4 公斤 · 3 件",
+      "items": [
+        {
+          "name": "招牌盐水鸭",
+          "qty": 1,
+          "price": 58
+        },
+        {
+          "name": "王府泡椒鸡",
+          "qty": 1,
+          "price": 42
+        },
+        {
+          "name": "米饭",
+          "qty": 2,
+          "price": 8
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        50,
+        29
+      ],
+      "delivery": [
+        48,
+        80
+      ],
+      "via": [
+        [
+          49,
+          52
+        ],
+        [
+          51,
+          60
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102514",
+    "displayNo": "352",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 9.8,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 31,
+    "deadline": "待更新前",
+    "tags": [
+      "甜品专送",
+      "轻拿轻放"
+    ],
+    "merchant": {
+      "name": "鲍师傅糕点（新街口店）",
+      "category": "点心 · 烘焙",
+      "address": "秦淮区中山南路 1 号 1 层",
+      "distanceKm": 0.7,
+      "emoji": "🧁"
+    },
+    "customer": {
+      "name": "陶**",
+      "tail": "2071",
+      "address": "鼓楼区江东北路 289 号 2 幢 1605",
+      "distanceKm": 4.1,
+      "note": "糕点易碎，请平放。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "点心",
+      "weight": "1.0 公斤",
+      "count": 3,
+      "paid": 63,
+      "summary": "点心 · 1.0 公斤 · 3 件",
+      "items": [
+        {
+          "name": "海苔肉松小贝",
+          "qty": 2,
+          "price": 18
+        },
+        {
+          "name": "芋泥雪贝",
+          "qty": 1,
+          "price": 27
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        43,
+        34
+      ],
+      "delivery": [
+        57,
+        73
+      ],
+      "via": [
+        [
+          52,
+          51
+        ],
+        [
+          48,
+          59
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102515",
+    "displayNo": "241",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 12.8,
+    "bonus": 2,
+    "bonusLabel": "按时送达再奖 ¥2.0",
+    "remainingMin": 39,
+    "deadline": "待更新前",
+    "tags": [
+      "同城",
+      "商超便利"
+    ],
+    "merchant": {
+      "name": "罗森便利店（珠江路店）",
+      "category": "商超便利",
+      "address": "玄武区珠江路 435 号 1 层",
+      "distanceKm": 1.3,
+      "emoji": "🏪"
+    },
+    "customer": {
+      "name": "范**",
+      "tail": "8149",
+      "address": "玄武区红山路 100 号 5 幢 702",
+      "distanceKm": 3.5,
+      "note": "请尽快送达，含冷藏商品。",
+      "tags": [
+        "同城"
+      ]
+    },
+    "goods": {
+      "category": "商超便利",
+      "weight": "1.7 公斤",
+      "count": 5,
+      "paid": 54.2,
+      "summary": "商超便利 · 1.7 公斤 · 5 件",
+      "items": [
+        {
+          "name": "鲜牛奶 950ml",
+          "qty": 1,
+          "price": 22.9
+        },
+        {
+          "name": "三明治",
+          "qty": 2,
+          "price": 11.5
+        },
+        {
+          "name": "关东煮组合",
+          "qty": 1,
+          "price": 8.3
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        56,
+        39
+      ],
+      "delivery": [
+        40,
+        76
+      ],
+      "via": [
+        [
+          46,
+          55
+        ],
+        [
+          50,
+          63
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102516",
+    "displayNo": "73",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 17.2,
+    "bonus": 3,
+    "bonusLabel": "按时送达再奖 ¥3.0",
+    "remainingMin": 18,
+    "deadline": "待更新前",
+    "tags": [
+      "文创专送",
+      "防水包装"
+    ],
+    "merchant": {
+      "name": "南京博物院文创（中山东路店）",
+      "category": "文创 · 礼品",
+      "address": "玄武区中山东路 321 号 1 层",
+      "distanceKm": 1.8,
+      "emoji": "🎁"
+    },
+    "customer": {
+      "name": "杜**",
+      "tail": "3806",
+      "address": "建邺区应天大街 888 号 4 幢 1803",
+      "distanceKm": 5.4,
+      "note": "礼盒请做好防水，勿倒置。",
+      "tags": [
+        "本人签收"
+      ]
+    },
+    "goods": {
+      "category": "文创",
+      "weight": "1.2 公斤",
+      "count": 2,
+      "paid": 188,
+      "summary": "文创 · 1.2 公斤 · 2 件",
+      "items": [
+        {
+          "name": "青花瓷纹样礼盒",
+          "qty": 1,
+          "price": 138
+        },
+        {
+          "name": "六朝博物馆书签",
+          "qty": 1,
+          "price": 50
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        49,
+        28
+      ],
+      "delivery": [
+        49,
+        79
+      ],
+      "via": [
+        [
+          49,
+          51
+        ],
+        [
+          47,
+          59
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102517",
+    "displayNo": "295",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 10.4,
+    "bonus": 1,
+    "bonusLabel": "按时送达再奖 ¥1.0",
+    "remainingMin": 27,
+    "deadline": "待更新前",
+    "tags": [
+      "小吃专送",
+      "商家已确认出货"
+    ],
+    "merchant": {
+      "name": "许阿姨糕团店（科巷店）",
+      "category": "小吃 · 糕团",
+      "address": "秦淮区科巷 26 号",
+      "distanceKm": 1.5,
+      "emoji": "🍙"
+    },
+    "customer": {
+      "name": "薛**",
+      "tail": "6795",
+      "address": "秦淮区瑞金路 48 号 2 幢 901",
+      "distanceKm": 2.9,
+      "note": "糕团请分开装，避免粘连。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "小吃",
+      "weight": "0.8 公斤",
+      "count": 4,
+      "paid": 38,
+      "summary": "小吃 · 0.8 公斤 · 4 件",
+      "items": [
+        {
+          "name": "青团",
+          "qty": 2,
+          "price": 9
+        },
+        {
+          "name": "赤豆元宵",
+          "qty": 1,
+          "price": 12
+        },
+        {
+          "name": "糖芋苗",
+          "qty": 1,
+          "price": 8
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        42,
+        33
+      ],
+      "delivery": [
+        58,
+        72
+      ],
+      "via": [
+        [
+          52,
+          50
+        ],
+        [
+          52,
+          58
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102518",
+    "displayNo": "408",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 11.5,
+    "bonus": 1,
+    "bonusLabel": "按时送达再奖 ¥1.0",
+    "remainingMin": 25,
+    "deadline": "待更新前",
+    "tags": [
+      "医药专送",
+      "隐私包装"
+    ],
+    "merchant": {
+      "name": "益丰大药房（汉中门店）",
+      "category": "医药健康",
+      "address": "秦淮区汉中路 158 号 1 层",
+      "distanceKm": 0.9,
+      "emoji": "💊"
+    },
+    "customer": {
+      "name": "魏**",
+      "tail": "1342",
+      "address": "建邺区水西门大街 268 号 6 幢 1106",
+      "distanceKm": 3.3,
+      "note": "请当面交付，勿放快递柜。",
+      "tags": [
+        "隐私包装"
+      ]
+    },
+    "goods": {
+      "category": "医药",
+      "weight": "0.3 公斤",
+      "count": 1,
+      "paid": 72.6,
+      "summary": "医药 · 0.3 公斤 · 1 件",
+      "items": [
+        {
+          "name": "家庭常备药组合",
+          "qty": 1,
+          "price": 72.6
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        55,
+        38
+      ],
+      "delivery": [
+        41,
+        75
+      ],
+      "via": [
+        [
+          46,
+          54
+        ],
+        [
+          46,
+          62
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102519",
+    "displayNo": "168",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 16.9,
+    "bonus": 3,
+    "bonusLabel": "按时送达再奖 ¥3.0",
+    "remainingMin": 21,
+    "deadline": "待更新前",
+    "tags": [
+      "同城",
+      "饮品专送"
+    ],
+    "merchant": {
+      "name": "奈雪的茶（德基店）",
+      "category": "茶饮 · 烘焙",
+      "address": "玄武区中山路 18 号 B1 层",
+      "distanceKm": 2,
+      "emoji": "🧋"
+    },
+    "customer": {
+      "name": "顾**",
+      "tail": "4570",
+      "address": "雨花台区安德门大街 57 号 3 幢 1204",
+      "distanceKm": 5.1,
+      "note": "饮品请套杯托，少冰。",
+      "tags": [
+        "同城"
+      ]
+    },
+    "goods": {
+      "category": "茶饮",
+      "weight": "1.3 公斤",
+      "count": 3,
+      "paid": 68,
+      "summary": "茶饮 · 1.3 公斤 · 3 件",
+      "items": [
+        {
+          "name": "霸气橙子",
+          "qty": 2,
+          "price": 19
+        },
+        {
+          "name": "草莓魔法棒",
+          "qty": 1,
+          "price": 30
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        48,
+        43
+      ],
+      "delivery": [
+        50,
+        78
+      ],
+      "via": [
+        [
+          49,
+          58
+        ],
+        [
+          51,
+          66
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102520",
+    "displayNo": "319",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 13.7,
+    "bonus": 2,
+    "bonusLabel": "按时送达再奖 ¥2.0",
+    "remainingMin": 34,
+    "deadline": "待更新前",
+    "tags": [
+      "茶叶专送",
+      "礼盒"
+    ],
+    "merchant": {
+      "name": "雨花茶礼（夫子庙店）",
+      "category": "茶叶 · 礼盒",
+      "address": "秦淮区贡院街 152 号 1 层",
+      "distanceKm": 1.6,
+      "emoji": "🍵"
+    },
+    "customer": {
+      "name": "钱**",
+      "tail": "9028",
+      "address": "鼓楼区草场门大街 99 号 2 幢 1503",
+      "distanceKm": 4.6,
+      "note": "礼盒请勿挤压，轻拿轻放。",
+      "tags": [
+        "本人签收"
+      ]
+    },
+    "goods": {
+      "category": "茶叶",
+      "weight": "1.5 公斤",
+      "count": 2,
+      "paid": 268,
+      "summary": "茶叶 · 1.5 公斤 · 2 件",
+      "items": [
+        {
+          "name": "南京雨花茶礼盒",
+          "qty": 1,
+          "price": 208
+        },
+        {
+          "name": "金陵茶点组合",
+          "qty": 1,
+          "price": 60
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        61,
+        32
+      ],
+      "delivery": [
+        59,
+        71
+      ],
+      "via": [
+        [
+          62,
+          49
+        ],
+        [
+          58,
+          57
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102521",
+    "displayNo": "85",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 15.3,
+    "bonus": 2,
+    "bonusLabel": "按时送达再奖 ¥2.0",
+    "remainingMin": 42,
+    "deadline": "待更新前",
+    "tags": [
+      "同城",
+      "商超便利",
+      "冷链商品"
+    ],
+    "merchant": {
+      "name": "苏果超市（云南路店）",
+      "category": "商超便利",
+      "address": "鼓楼区云南路 18 号 B1 层",
+      "distanceKm": 1.9,
+      "emoji": "🛒"
+    },
+    "customer": {
+      "name": "严**",
+      "tail": "7314",
+      "address": "玄武区龙蟠路 159 号 4 幢 1602",
+      "distanceKm": 4,
+      "note": "含冷冻食品，请尽快送达。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "商超便利",
+      "weight": "2.9 公斤",
+      "count": 6,
+      "paid": 129.5,
+      "summary": "商超便利 · 2.9 公斤 · 6 件",
+      "items": [
+        {
+          "name": "冷鲜牛肉",
+          "qty": 1,
+          "price": 59.9
+        },
+        {
+          "name": "纯牛奶 250ml×12",
+          "qty": 1,
+          "price": 45.6
+        },
+        {
+          "name": "抽纸 3层",
+          "qty": 2,
+          "price": 12
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        54,
+        37
+      ],
+      "delivery": [
+        42,
+        74
+      ],
+      "via": [
+        [
+          46,
+          53
+        ],
+        [
+          50,
+          61
+        ]
+      ]
+    }
+  },
+  {
+    "id": "NJ2026102522",
+    "displayNo": "263",
+    "cityId": "nanjing",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 18.4,
+    "bonus": 3,
+    "bonusLabel": "按时送达再奖 ¥3.0",
+    "remainingMin": 20,
+    "deadline": "待更新前",
+    "tags": [
+      "图书文创",
+      "防水包装"
+    ],
+    "merchant": {
+      "name": "南京图书馆书店（中山东路店）",
+      "category": "图书 · 文创",
+      "address": "玄武区中山东路 189 号 1 层",
+      "distanceKm": 1.4,
+      "emoji": "📚"
+    },
+    "customer": {
+      "name": "程**",
+      "tail": "2669",
+      "address": "鼓楼区中山北路 212 号 3 幢 1307",
+      "distanceKm": 3.7,
+      "note": "书籍请用防水袋包装。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "图书",
+      "weight": "1.9 公斤",
+      "count": 3,
+      "paid": 146,
+      "summary": "图书 · 1.9 公斤 · 3 件",
+      "items": [
+        {
+          "name": "南京城市史",
+          "qty": 1,
+          "price": 78
+        },
+        {
+          "name": "金陵古地图",
+          "qty": 1,
+          "price": 48
+        },
+        {
+          "name": "文创笔记本",
+          "qty": 1,
+          "price": 20
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        47,
+        42
+      ],
+      "delivery": [
+        51,
+        77
+      ],
+      "via": [
+        [
+          49,
+          57
+        ],
+        [
+          47,
+          65
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102501",
+    "displayNo": "34",
+    "cityId": "hefei",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 10.6,
+    "bonus": 2,
+    "bonusLabel": "20:20前送达，再奖 ¥2.0",
+    "remainingMin": 27,
+    "deadline": "20:34前",
+    "tags": [
+      "特殊天气加分",
+      "服务分"
+    ],
+    "merchant": {
+      "name": "罍街小馆（宁国路店）",
+      "category": "餐饮 · 徽菜",
+      "address": "包河区宁国路 18 号 2 幢 101",
+      "distanceKm": 1.6,
+      "emoji": "🥘"
+    },
+    "customer": {
+      "name": "陈**",
+      "tail": "6633",
+      "address": "包河区马鞍山路 88 号 3 幢 1202",
+      "distanceKm": 3.4,
+      "note": "放门口即可，不用敲门。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "0.8 公斤",
+      "count": 2,
+      "paid": 58,
+      "summary": "餐饮 · 0.8 公斤 · 2 件",
+      "items": [
+        {
+          "name": "小份臭鳜鱼",
+          "qty": 1,
+          "price": 38
+        },
+        {
+          "name": "徽州米饺",
+          "qty": 1,
+          "price": 20
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        62,
+        36
+      ],
+      "delivery": [
+        38,
+        75
+      ],
+      "via": [
+        [
+          60,
+          46
+        ],
+        [
+          54,
+          55
+        ],
+        [
+          46,
+          65
+        ],
+        [
+          42,
+          70
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102502",
+    "displayNo": "116",
+    "cityId": "hefei",
+    "status": "available",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 13.8,
+    "bonus": 3,
+    "bonusLabel": "14:50前送达，再奖 ¥3.0",
+    "remainingMin": 42,
+    "deadline": "15:06前",
+    "tags": [
+      "同城",
+      "蛋糕专送"
+    ],
+    "merchant": {
+      "name": "天鹅湖烘焙（政务区店）",
+      "category": "烘焙 · 蛋糕",
+      "address": "蜀山区潜山路 199 号 1 层",
+      "distanceKm": 2.4,
+      "emoji": "🍰"
+    },
+    "customer": {
+      "name": "吴**",
+      "tail": "9012",
+      "address": "蜀山区南二环 66 号 A 座 1603",
+      "distanceKm": 5,
+      "note": "蛋糕请保持平稳，到楼下电话联系。",
+      "tags": [
+        "同城",
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "烘焙",
+      "weight": "2.0 公斤",
+      "count": 1,
+      "paid": 199,
+      "summary": "烘焙 · 2.0 公斤 · 1 件",
+      "items": [
+        {
+          "name": "草莓奶油蛋糕（6英寸）",
+          "qty": 1,
+          "price": 199
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        44,
+        34
+      ],
+      "delivery": [
+        63,
+        78
+      ],
+      "via": [
+        [
+          45,
+          46
+        ],
+        [
+          50,
+          56
+        ],
+        [
+          56,
+          66
+        ],
+        [
+          60,
+          72
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102503",
+    "displayNo": "87",
+    "cityId": "hefei",
+    "status": "accepted",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 9.1,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 19,
+    "deadline": "19:12前",
+    "tags": [
+      "商家已确认出货"
+    ],
+    "merchant": {
+      "name": "蜀山轻食（之心城店）",
+      "category": "轻食 · 沙拉",
+      "address": "蜀山区长江西路 189 号 5 层",
+      "distanceKm": 1.2,
+      "emoji": "🥗"
+    },
+    "customer": {
+      "name": "郑**",
+      "tail": "7721",
+      "address": "蜀山区黄山路 36 号 2 幢 802",
+      "distanceKm": 2.2,
+      "note": "不要沙拉酱，谢谢。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "轻食",
+      "weight": "0.35 公斤",
+      "count": 1,
+      "paid": 31,
+      "summary": "轻食 · 0.35 公斤 · 1 件",
+      "items": [
+        {
+          "name": "鸡胸牛油果沙拉",
+          "qty": 1,
+          "price": 31
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        55,
+        40
+      ],
+      "delivery": [
+        42,
+        67
+      ],
+      "via": [
+        [
+          56,
+          49
+        ],
+        [
+          51,
+          57
+        ],
+        [
+          47,
+          62
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102504",
+    "displayNo": "203",
+    "cityId": "hefei",
+    "status": "available",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 7.9,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 31,
+    "deadline": "21:15前",
+    "tags": [
+      "便利店单"
+    ],
+    "merchant": {
+      "name": "科大便利店（东区店）",
+      "category": "商超便利",
+      "address": "包河区金寨路 96 号 1 层",
+      "distanceKm": 0.9,
+      "emoji": "🏪"
+    },
+    "customer": {
+      "name": "何**",
+      "tail": "1158",
+      "address": "包河区太湖路 20 号 6 幢 501",
+      "distanceKm": 2.8,
+      "note": "请带一包纸巾，费用可到付。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "商超便利",
+      "weight": "0.267 公斤",
+      "count": 5,
+      "paid": 22.8,
+      "summary": "商超便利 · 0.267 公斤 · 5 件",
+      "items": [
+        {
+          "name": "矿泉水 550ml",
+          "qty": 2,
+          "price": 2
+        },
+        {
+          "name": "全麦吐司 400g",
+          "qty": 1,
+          "price": 9.9
+        },
+        {
+          "name": "原味酸奶 200g",
+          "qty": 2,
+          "price": 8.9
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        59,
+        44
+      ],
+      "delivery": [
+        45,
+        72
+      ],
+      "via": [
+        [
+          57,
+          52
+        ],
+        [
+          52,
+          59
+        ],
+        [
+          49,
+          65
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102505",
+    "displayNo": "147",
+    "cityId": "hefei",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 11.9,
+    "bonus": 2,
+    "bonusLabel": "按时送达再奖 ¥2.0",
+    "remainingMin": 26,
+    "deadline": "待更新前",
+    "tags": [
+      "天气加分",
+      "饮品专送"
+    ],
+    "merchant": {
+      "name": "卡旺卡（三里庵店）",
+      "category": "奶茶 · 饮品",
+      "address": "蜀山区长江西路 199 号 1 层",
+      "distanceKm": 0.8,
+      "emoji": "🧋"
+    },
+    "customer": {
+      "name": "杨**",
+      "tail": "1937",
+      "address": "蜀山区肥西路 66 号 3 幢 1206",
+      "distanceKm": 2.7,
+      "note": "少冰，请放前台。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "饮品",
+      "weight": "0.9 公斤",
+      "count": 3,
+      "paid": 38,
+      "summary": "饮品 · 0.9 公斤 · 3 件",
+      "items": [
+        {
+          "name": "黑全套奶茶",
+          "qty": 2,
+          "price": 15
+        },
+        {
+          "name": "芋泥啵啵",
+          "qty": 1,
+          "price": 8
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        44,
+        39
+      ],
+      "delivery": [
+        52,
+        74
+      ],
+      "via": [
+        [
+          51,
+          53
+        ],
+        [
+          51,
+          62
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102506",
+    "displayNo": "268",
+    "cityId": "hefei",
+    "status": "available",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 8.6,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 34,
+    "deadline": "待更新前",
+    "tags": [
+      "商家已确认出货"
+    ],
+    "merchant": {
+      "name": "老乡鸡（政务区店）",
+      "category": "餐饮 · 中式快餐",
+      "address": "蜀山区潜山路 190 号 1 层",
+      "distanceKm": 1.5,
+      "emoji": "🍱"
+    },
+    "customer": {
+      "name": "刘**",
+      "tail": "3460",
+      "address": "蜀山区怀宁路 288 号 5 幢 1804",
+      "distanceKm": 3.8,
+      "note": "米饭和汤请分开装。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "0.8 公斤",
+      "count": 2,
+      "paid": 42,
+      "summary": "餐饮 · 0.8 公斤 · 2 件",
+      "items": [
+        {
+          "name": "香菇滑鸡套餐",
+          "qty": 1,
+          "price": 26
+        },
+        {
+          "name": "竹笋老母鸡汤",
+          "qty": 1,
+          "price": 16
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        56,
+        29
+      ],
+      "delivery": [
+        34,
+        77
+      ],
+      "via": [
+        [
+          42,
+          49
+        ],
+        [
+          43,
+          58
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102507",
+    "displayNo": "356",
+    "cityId": "hefei",
+    "status": "available",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 16.4,
+    "bonus": 3,
+    "bonusLabel": "提前送达再奖 ¥3.0",
+    "remainingMin": 41,
+    "deadline": "待更新前",
+    "tags": [
+      "同城",
+      "鲜花专送"
+    ],
+    "merchant": {
+      "name": "合肥银泰鲜花（长江路店）",
+      "category": "鲜花 · 绿植",
+      "address": "庐阳区长江中路 98 号 2 层",
+      "distanceKm": 2.1,
+      "emoji": "💐"
+    },
+    "customer": {
+      "name": "罗**",
+      "tail": "7725",
+      "address": "庐阳区北一环濉溪路 168 号 4 幢 1302",
+      "distanceKm": 4.3,
+      "note": "鲜花请轻拿轻放。",
+      "tags": [
+        "同城"
+      ]
+    },
+    "goods": {
+      "category": "鲜花",
+      "weight": "1.6 公斤",
+      "count": 1,
+      "paid": 198,
+      "summary": "鲜花 · 1.6 公斤 · 1 件",
+      "items": [
+        {
+          "name": "向日葵香槟玫瑰花束",
+          "qty": 1,
+          "price": 198
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        49,
+        34
+      ],
+      "delivery": [
+        43,
+        80
+      ],
+      "via": [
+        [
+          46,
+          53
+        ],
+        [
+          49,
+          62
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102508",
+    "displayNo": "79",
+    "cityId": "hefei",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 14.7,
+    "bonus": 2,
+    "bonusLabel": "按时送达再奖 ¥2.0",
+    "remainingMin": 23,
+    "deadline": "待更新前",
+    "tags": [
+      "文创专送",
+      "防水包装"
+    ],
+    "merchant": {
+      "name": "安徽博物院文创（怀宁路店）",
+      "category": "文创 · 礼品",
+      "address": "蜀山区怀宁路 87 号 1 层",
+      "distanceKm": 1.8,
+      "emoji": "🎁"
+    },
+    "customer": {
+      "name": "方**",
+      "tail": "6081",
+      "address": "包河区马鞍山路 155 号 2 幢 1008",
+      "distanceKm": 5,
+      "note": "礼品请做好防水。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "文创",
+      "weight": "1.0 公斤",
+      "count": 2,
+      "paid": 126,
+      "summary": "文创 · 1.0 公斤 · 2 件",
+      "items": [
+        {
+          "name": "青铜纹样礼盒",
+          "qty": 1,
+          "price": 98
+        },
+        {
+          "name": "徽派书签套装",
+          "qty": 1,
+          "price": 28
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        42,
+        39
+      ],
+      "delivery": [
+        52,
+        72
+      ],
+      "via": [
+        [
+          50,
+          52
+        ],
+        [
+          45,
+          61
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102509",
+    "displayNo": "422",
+    "cityId": "hefei",
+    "status": "picked",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 12.3,
+    "bonus": 1,
+    "bonusLabel": "准时送达再奖 ¥1.0",
+    "remainingMin": 12,
+    "deadline": "待更新前",
+    "tags": [
+      "已取货",
+      "轻拿轻放"
+    ],
+    "merchant": {
+      "name": "詹记桃酥（庐州太太店）",
+      "category": "点心 · 糕点",
+      "address": "庐阳区宿州路 58 号 1 层",
+      "distanceKm": 1,
+      "emoji": "🍪"
+    },
+    "customer": {
+      "name": "高**",
+      "tail": "4593",
+      "address": "瑶海区临泉路 88 号 3 幢 902",
+      "distanceKm": 3.6,
+      "note": "糕点易碎，请平放。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "点心",
+      "weight": "1.2 公斤",
+      "count": 3,
+      "paid": 69,
+      "summary": "点心 · 1.2 公斤 · 3 件",
+      "items": [
+        {
+          "name": "原味桃酥",
+          "qty": 2,
+          "price": 22
+        },
+        {
+          "name": "桂花蛋糕",
+          "qty": 1,
+          "price": 25
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        54,
+        29
+      ],
+      "delivery": [
+        34,
+        75
+      ],
+      "via": [
+        [
+          41,
+          48
+        ],
+        [
+          47,
+          57
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102510",
+    "displayNo": "508",
+    "cityId": "hefei",
+    "status": "delivered",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 8.2,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 0,
+    "deadline": "已完成",
+    "tags": [
+      "已送达",
+      "商超便利"
+    ],
+    "merchant": {
+      "name": "合家福超市（南七店）",
+      "category": "商超便利",
+      "address": "蜀山区望江西路 121 号 B1 层",
+      "distanceKm": 1.6,
+      "emoji": "🛒"
+    },
+    "customer": {
+      "name": "马**",
+      "tail": "1128",
+      "address": "蜀山区合作化南路 46 号 7 幢 604",
+      "distanceKm": 2.8,
+      "note": "请送至门口鞋柜。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "商超便利",
+      "weight": "3.1 公斤",
+      "count": 6,
+      "paid": 86.5,
+      "summary": "商超便利 · 3.1 公斤 · 6 件",
+      "items": [
+        {
+          "name": "纯牛奶 250ml×12",
+          "qty": 1,
+          "price": 49.9
+        },
+        {
+          "name": "抽纸 3层",
+          "qty": 2,
+          "price": 15
+        },
+        {
+          "name": "新鲜鸡蛋 10枚",
+          "qty": 1,
+          "price": 21.6
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        47,
+        34
+      ],
+      "delivery": [
+        43,
+        78
+      ],
+      "via": [
+        [
+          45,
+          52
+        ],
+        [
+          43,
+          61
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102511",
+    "displayNo": "191",
+    "cityId": "hefei",
+    "status": "cancelled",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 9.8,
+    "bonus": 0,
+    "bonusLabel": "订单已取消",
+    "remainingMin": 0,
+    "deadline": "已取消",
+    "tags": [
+      "已取消",
+      "商家缺货"
+    ],
+    "merchant": {
+      "name": "小岭南咖啡（蜀山店）",
+      "category": "咖啡 · 轻食",
+      "address": "蜀山区小庙镇岭南村 8 号",
+      "distanceKm": 2.7,
+      "emoji": "☕"
+    },
+    "customer": {
+      "name": "韩**",
+      "tail": "8350",
+      "address": "蜀山区长宁大道 199 号 2 幢 1102",
+      "distanceKm": 4.9,
+      "note": "商家缺货，订单已取消。",
+      "tags": [
+        "商家取消"
+      ]
+    },
+    "goods": {
+      "category": "咖啡",
+      "weight": "0.7 公斤",
+      "count": 2,
+      "paid": 46,
+      "summary": "咖啡 · 0.7 公斤 · 2 件",
+      "items": [
+        {
+          "name": "燕麦拿铁",
+          "qty": 1,
+          "price": 28
+        },
+        {
+          "name": "牛肉贝果",
+          "qty": 1,
+          "price": 18
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        59,
+        39
+      ],
+      "delivery": [
+        52,
+        70
+      ],
+      "via": [
+        [
+          59,
+          51
+        ],
+        [
+          59,
+          60
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HF2026102512",
+    "displayNo": "274",
+    "cityId": "hefei",
+    "status": "accepted",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 15.1,
+    "bonus": 2,
+    "bonusLabel": "准时送达再奖 ¥2.0",
+    "remainingMin": 20,
+    "deadline": "待更新前",
+    "tags": [
+      "待取货",
+      "数码产品"
+    ],
+    "merchant": {
+      "name": "科大讯飞商城（望江西路店）",
+      "category": "数码 · 办公",
+      "address": "高新区望江西路 666 号 1 层",
+      "distanceKm": 2.3,
+      "emoji": "🎧"
+    },
+    "customer": {
+      "name": "邓**",
+      "tail": "2471",
+      "address": "蜀山区创新大道 2800 号 A 座 1206",
+      "distanceKm": 3.9,
+      "note": "请本人签收，勿放快递柜。",
+      "tags": [
+        "本人签收"
+      ]
+    },
+    "goods": {
+      "category": "数码",
+      "weight": "0.4 公斤",
+      "count": 1,
+      "paid": 399,
+      "summary": "数码 · 0.4 公斤 · 1 件",
+      "items": [
+        {
+          "name": "无线降噪耳机",
+          "qty": 1,
+          "price": 399
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        52,
+        29
+      ],
+      "delivery": [
+        34,
+        73
+      ],
+      "via": [
+        [
+          40,
+          47
+        ],
+        [
+          41,
+          56
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102501",
+    "displayNo": "25",
+    "cityId": "hangzhou",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 12.8,
+    "bonus": 2,
+    "bonusLabel": "17:08前送达，再奖 ¥2.0",
+    "remainingMin": 29,
+    "deadline": "17:20前",
+    "tags": [
+      "天气加分",
+      "景区单"
+    ],
+    "merchant": {
+      "name": "西湖藕粉铺（河坊街店）",
+      "category": "小吃 · 甜品",
+      "address": "上城区河坊街 55 号 1 层",
+      "distanceKm": 1.5,
+      "emoji": "🍵"
+    },
+    "customer": {
+      "name": "沈**",
+      "tail": "8380",
+      "address": "上城区清泰街 9 号 2 幢 1001",
+      "distanceKm": 3.1,
+      "note": "请送到小区门口保安室。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "0.5 公斤",
+      "count": 2,
+      "paid": 36,
+      "summary": "餐饮 · 0.5 公斤 · 2 件",
+      "items": [
+        {
+          "name": "桂花藕粉",
+          "qty": 1,
+          "price": 18
+        },
+        {
+          "name": "定胜糕（4只）",
+          "qty": 1,
+          "price": 18
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        61,
+        38
+      ],
+      "delivery": [
+        42,
+        73
+      ],
+      "via": [
+        [
+          60,
+          48
+        ],
+        [
+          55,
+          56
+        ],
+        [
+          49,
+          64
+        ],
+        [
+          45,
+          69
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102502",
+    "displayNo": "142",
+    "cityId": "hangzhou",
+    "status": "available",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 15.2,
+    "bonus": 3,
+    "bonusLabel": "16:52前送达，再奖 ¥3.0",
+    "remainingMin": 35,
+    "deadline": "17:02前",
+    "tags": [
+      "同城",
+      "咖啡专送"
+    ],
+    "merchant": {
+      "name": "运河咖啡（拱宸桥店）",
+      "category": "咖啡 · 烘焙",
+      "address": "拱墅区桥弄街 12 号 1 层",
+      "distanceKm": 2,
+      "emoji": "☕"
+    },
+    "customer": {
+      "name": "许**",
+      "tail": "4066",
+      "address": "拱墅区湖墅南路 188 号 3 幢 1402",
+      "distanceKm": 4.6,
+      "note": "咖啡请套杯托，谢谢。",
+      "tags": [
+        "同城"
+      ]
+    },
+    "goods": {
+      "category": "咖啡",
+      "weight": "0.9 公斤",
+      "count": 3,
+      "paid": 68,
+      "summary": "咖啡 · 0.9 公斤 · 3 件",
+      "items": [
+        {
+          "name": "桂花冷萃",
+          "qty": 2,
+          "price": 24
+        },
+        {
+          "name": "黄油可颂",
+          "qty": 1,
+          "price": 20
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        46,
+        36
+      ],
+      "delivery": [
+        64,
+        75
+      ],
+      "via": [
+        [
+          47,
+          46
+        ],
+        [
+          52,
+          55
+        ],
+        [
+          58,
+          65
+        ],
+        [
+          62,
+          70
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102503",
+    "displayNo": "63",
+    "cityId": "hangzhou",
+    "status": "picked",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 11.4,
+    "bonus": 1,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 14,
+    "deadline": "18:26前",
+    "tags": [
+      "已取货",
+      "轻拿轻放"
+    ],
+    "merchant": {
+      "name": "龙井茶点（武林店）",
+      "category": "茶点 · 中式糕点",
+      "address": "拱墅区体育场路 88 号 1 层",
+      "distanceKm": 1.3,
+      "emoji": "🍡"
+    },
+    "customer": {
+      "name": "顾**",
+      "tail": "7290",
+      "address": "拱墅区凤起路 300 号 2 幢 1103",
+      "distanceKm": 2.5,
+      "note": "请按门铃，放置在门口即可。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "茶点",
+      "weight": "0.7 公斤",
+      "count": 2,
+      "paid": 48,
+      "summary": "茶点 · 0.7 公斤 · 2 件",
+      "items": [
+        {
+          "name": "龙井茶酥礼盒",
+          "qty": 1,
+          "price": 32
+        },
+        {
+          "name": "桂花绿豆糕",
+          "qty": 1,
+          "price": 16
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        49,
+        42
+      ],
+      "delivery": [
+        60,
+        68
+      ],
+      "via": [
+        [
+          53,
+          49
+        ],
+        [
+          56,
+          56
+        ],
+        [
+          58,
+          62
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102504",
+    "displayNo": "188",
+    "cityId": "hangzhou",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 13.6,
+    "bonus": 2,
+    "bonusLabel": "按时送达再奖 ¥2.0",
+    "remainingMin": 25,
+    "deadline": "待更新前",
+    "tags": [
+      "景区单",
+      "餐饮专送"
+    ],
+    "merchant": {
+      "name": "楼外楼（孤山路店）",
+      "category": "餐饮 · 杭帮菜",
+      "address": "西湖区孤山路 30 号",
+      "distanceKm": 1.4,
+      "emoji": "🥢"
+    },
+    "customer": {
+      "name": "叶**",
+      "tail": "6810",
+      "address": "西湖区曙光路 122 号 3 幢 801",
+      "distanceKm": 3.2,
+      "note": "汤汁请密封，餐具放两份。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "1.5 公斤",
+      "count": 3,
+      "paid": 128,
+      "summary": "餐饮 · 1.5 公斤 · 3 件",
+      "items": [
+        {
+          "name": "西湖醋鱼",
+          "qty": 1,
+          "price": 88
+        },
+        {
+          "name": "龙井虾仁",
+          "qty": 1,
+          "price": 40
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        51,
+        34
+      ],
+      "delivery": [
+        43,
+        71
+      ],
+      "via": [
+        [
+          47,
+          49
+        ],
+        [
+          45,
+          58
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102505",
+    "displayNo": "301",
+    "cityId": "hangzhou",
+    "status": "available",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 9.4,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 33,
+    "deadline": "待更新前",
+    "tags": [
+      "商超便利",
+      "冷链商品"
+    ],
+    "merchant": {
+      "name": "盒马鲜生（武林店）",
+      "category": "商超便利",
+      "address": "拱墅区体育场路 288 号 B1 层",
+      "distanceKm": 0.9,
+      "emoji": "🛒"
+    },
+    "customer": {
+      "name": "宋**",
+      "tail": "3057",
+      "address": "拱墅区建国北路 118 号 2 幢 1502",
+      "distanceKm": 2.5,
+      "note": "含冷冻食品，请尽快送达。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "商超便利",
+      "weight": "2.8 公斤",
+      "count": 5,
+      "paid": 112.6,
+      "summary": "商超便利 · 2.8 公斤 · 5 件",
+      "items": [
+        {
+          "name": "冷鲜牛排",
+          "qty": 1,
+          "price": 56
+        },
+        {
+          "name": "鲜牛奶 950ml",
+          "qty": 1,
+          "price": 25.9
+        },
+        {
+          "name": "生菜沙拉",
+          "qty": 2,
+          "price": 15.35
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        44,
+        39
+      ],
+      "delivery": [
+        52,
+        74
+      ],
+      "via": [
+        [
+          51,
+          53
+        ],
+        [
+          51,
+          62
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102506",
+    "displayNo": "67",
+    "cityId": "hangzhou",
+    "status": "available",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 14.8,
+    "bonus": 3,
+    "bonusLabel": "提前送达再奖 ¥3.0",
+    "remainingMin": 30,
+    "deadline": "待更新前",
+    "tags": [
+      "同城",
+      "中式点心"
+    ],
+    "merchant": {
+      "name": "南宋胡记（河坊街店）",
+      "category": "点心 · 糕点",
+      "address": "上城区河坊街 108 号",
+      "distanceKm": 1.2,
+      "emoji": "🥮"
+    },
+    "customer": {
+      "name": "唐**",
+      "tail": "9264",
+      "address": "滨江区江南大道 228 号 5 幢 1006",
+      "distanceKm": 5.6,
+      "note": "礼盒请保持完整，谢谢。",
+      "tags": [
+        "同城"
+      ]
+    },
+    "goods": {
+      "category": "点心",
+      "weight": "1.1 公斤",
+      "count": 2,
+      "paid": 98,
+      "summary": "点心 · 1.1 公斤 · 2 件",
+      "items": [
+        {
+          "name": "荷花酥礼盒",
+          "qty": 1,
+          "price": 58
+        },
+        {
+          "name": "龙井茶糕",
+          "qty": 1,
+          "price": 40
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        56,
+        29
+      ],
+      "delivery": [
+        34,
+        77
+      ],
+      "via": [
+        [
+          42,
+          49
+        ],
+        [
+          43,
+          58
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102507",
+    "displayNo": "245",
+    "cityId": "hangzhou",
+    "status": "available",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 11.2,
+    "bonus": 1,
+    "bonusLabel": "按时送达再奖 ¥1.0",
+    "remainingMin": 19,
+    "deadline": "待更新前",
+    "tags": [
+      "医药专送",
+      "隐私包装"
+    ],
+    "merchant": {
+      "name": "浙江省人民医院药房（朝晖店）",
+      "category": "医药健康",
+      "address": "拱墅区上塘路 158 号 1 层",
+      "distanceKm": 1.7,
+      "emoji": "💊"
+    },
+    "customer": {
+      "name": "何**",
+      "tail": "4288",
+      "address": "拱墅区潮王路 225 号 6 幢 703",
+      "distanceKm": 3.1,
+      "note": "请勿放快递柜，当面交付。",
+      "tags": [
+        "隐私包装"
+      ]
+    },
+    "goods": {
+      "category": "医药",
+      "weight": "0.3 公斤",
+      "count": 1,
+      "paid": 68,
+      "summary": "医药 · 0.3 公斤 · 1 件",
+      "items": [
+        {
+          "name": "处方药代取袋",
+          "qty": 1,
+          "price": 68
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        49,
+        34
+      ],
+      "delivery": [
+        43,
+        80
+      ],
+      "via": [
+        [
+          46,
+          53
+        ],
+        [
+          49,
+          62
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102508",
+    "displayNo": "416",
+    "cityId": "hangzhou",
+    "status": "available",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 10.5,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 36,
+    "deadline": "待更新前",
+    "tags": [
+      "图书文创",
+      "防水包装"
+    ],
+    "merchant": {
+      "name": "晓风书屋（体育场路店）",
+      "category": "图书 · 文创",
+      "address": "拱墅区体育场路 529 号",
+      "distanceKm": 2,
+      "emoji": "📖"
+    },
+    "customer": {
+      "name": "冯**",
+      "tail": "5719",
+      "address": "西湖区文三路 90 号 2 幢 1104",
+      "distanceKm": 4,
+      "note": "书籍请用防水袋装好。",
+      "tags": [
+        "优享送"
+      ]
+    },
+    "goods": {
+      "category": "图书",
+      "weight": "1.3 公斤",
+      "count": 2,
+      "paid": 84,
+      "summary": "图书 · 1.3 公斤 · 2 件",
+      "items": [
+        {
+          "name": "杭州城市人文地图",
+          "qty": 1,
+          "price": 46
+        },
+        {
+          "name": "宋韵主题笔记本",
+          "qty": 1,
+          "price": 38
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        42,
+        39
+      ],
+      "delivery": [
+        52,
+        72
+      ],
+      "via": [
+        [
+          50,
+          52
+        ],
+        [
+          45,
+          61
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102509",
+    "displayNo": "338",
+    "cityId": "hangzhou",
+    "status": "accepted",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 18.6,
+    "bonus": 3,
+    "bonusLabel": "准时送达再奖 ¥3.0",
+    "remainingMin": 18,
+    "deadline": "待更新前",
+    "tags": [
+      "待取货",
+      "茶叶专送"
+    ],
+    "merchant": {
+      "name": "中国茶叶博物馆茶礼（龙井店）",
+      "category": "茶叶 · 礼盒",
+      "address": "西湖区龙井路 88 号",
+      "distanceKm": 2.6,
+      "emoji": "🍵"
+    },
+    "customer": {
+      "name": "周**",
+      "tail": "6603",
+      "address": "上城区钱江路 1366 号 3 幢 2202",
+      "distanceKm": 6.1,
+      "note": "礼盒请勿倒置，轻拿轻放。",
+      "tags": [
+        "本人签收"
+      ]
+    },
+    "goods": {
+      "category": "茶叶",
+      "weight": "1.8 公斤",
+      "count": 2,
+      "paid": 328,
+      "summary": "茶叶 · 1.8 公斤 · 2 件",
+      "items": [
+        {
+          "name": "明前龙井礼盒",
+          "qty": 1,
+          "price": 268
+        },
+        {
+          "name": "九曲红梅罐装",
+          "qty": 1,
+          "price": 60
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        54,
+        29
+      ],
+      "delivery": [
+        34,
+        75
+      ],
+      "via": [
+        [
+          41,
+          48
+        ],
+        [
+          47,
+          57
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102510",
+    "displayNo": "123",
+    "cityId": "hangzhou",
+    "status": "picked",
+    "type": "1对1急送",
+    "typeKey": "express",
+    "fee": 12.1,
+    "bonus": 2,
+    "bonusLabel": "准时送达再奖 ¥2.0",
+    "remainingMin": 9,
+    "deadline": "待更新前",
+    "tags": [
+      "已取货",
+      "餐饮专送"
+    ],
+    "merchant": {
+      "name": "外婆家（湖滨店）",
+      "category": "餐饮 · 杭帮菜",
+      "address": "上城区延安路 258 号 3 层",
+      "distanceKm": 0.8,
+      "emoji": "🍲"
+    },
+    "customer": {
+      "name": "许**",
+      "tail": "8951",
+      "address": "上城区庆春路 168 号 2 幢 1203",
+      "distanceKm": 2.4,
+      "note": "米饭要两份，不要辣。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "餐饮",
+      "weight": "1.7 公斤",
+      "count": 3,
+      "paid": 116,
+      "summary": "餐饮 · 1.7 公斤 · 3 件",
+      "items": [
+        {
+          "name": "茶香鸡半只",
+          "qty": 1,
+          "price": 58
+        },
+        {
+          "name": "杭三鲜",
+          "qty": 1,
+          "price": 42
+        },
+        {
+          "name": "米饭",
+          "qty": 2,
+          "price": 8
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        47,
+        34
+      ],
+      "delivery": [
+        43,
+        78
+      ],
+      "via": [
+        [
+          45,
+          52
+        ],
+        [
+          43,
+          61
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102511",
+    "displayNo": "579",
+    "cityId": "hangzhou",
+    "status": "delivered",
+    "type": "跑腿单",
+    "typeKey": "errand",
+    "fee": 9.7,
+    "bonus": 0,
+    "bonusLabel": "准时送达可加服务分",
+    "remainingMin": 0,
+    "deadline": "已完成",
+    "tags": [
+      "已送达",
+      "文创礼品"
+    ],
+    "merchant": {
+      "name": "西湖礼物（南山路店）",
+      "category": "文创 · 礼品",
+      "address": "西湖区南山路 181 号",
+      "distanceKm": 1.9,
+      "emoji": "🎁"
+    },
+    "customer": {
+      "name": "沈**",
+      "tail": "2044",
+      "address": "上城区解放东路 58 号 6 幢 905",
+      "distanceKm": 3.7,
+      "note": "请放在快递柜旁。",
+      "tags": [
+        "无接触配送"
+      ]
+    },
+    "goods": {
+      "category": "文创",
+      "weight": "0.8 公斤",
+      "count": 2,
+      "paid": 96,
+      "summary": "文创 · 0.8 公斤 · 2 件",
+      "items": [
+        {
+          "name": "西湖十景冰箱贴",
+          "qty": 1,
+          "price": 48
+        },
+        {
+          "name": "丝绸折扇",
+          "qty": 1,
+          "price": 48
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        59,
+        39
+      ],
+      "delivery": [
+        52,
+        70
+      ],
+      "via": [
+        [
+          59,
+          51
+        ],
+        [
+          59,
+          60
+        ]
+      ]
+    }
+  },
+  {
+    "id": "HZ2026102512",
+    "displayNo": "287",
+    "cityId": "hangzhou",
+    "status": "cancelled",
+    "type": "同城",
+    "typeKey": "city",
+    "fee": 14.3,
+    "bonus": 0,
+    "bonusLabel": "订单已取消",
+    "remainingMin": 0,
+    "deadline": "已取消",
+    "tags": [
+      "已取消",
+      "地址异常"
+    ],
+    "merchant": {
+      "name": "拱墅花艺（大关店）",
+      "category": "鲜花 · 绿植",
+      "address": "拱墅区大关路 88 号 1 层",
+      "distanceKm": 1.5,
+      "emoji": "🌷"
+    },
+    "customer": {
+      "name": "朱**",
+      "tail": "3176",
+      "address": "拱墅区上塘路 456 号 2 幢 701",
+      "distanceKm": 3.2,
+      "note": "配送地址异常，订单已取消。",
+      "tags": [
+        "地址异常"
+      ]
+    },
+    "goods": {
+      "category": "鲜花",
+      "weight": "1.4 公斤",
+      "count": 1,
+      "paid": 158,
+      "summary": "鲜花 · 1.4 公斤 · 1 件",
+      "items": [
+        {
+          "name": "郁金香春日花束",
+          "qty": 1,
+          "price": 158
+        }
+      ]
+    },
+    "route": {
+      "pickup": [
+        52,
+        29
+      ],
+      "delivery": [
+        34,
+        73
+      ],
+      "via": [
+        [
+          40,
+          47
+        ],
+        [
+          41,
+          56
+        ]
+      ]
+    }
+  }
+]

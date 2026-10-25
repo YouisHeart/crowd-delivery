@@ -1,0 +1,242 @@
+{
+  "user": {
+    "displayName": "高晨建",
+    "shortName": "小满",
+    "level": "荣耀黄金1",
+    "rating": 4.98,
+    "cityId": "nanjing",
+    "phoneMask": "138****1640",
+    "joinedAt": "2026-03-12",
+    "riderId": "MSKO-0725-0188"
+  },
+  "today": {
+    "income": 123.8,
+    "orders": 12,
+    "onlineMinutes": 786,
+    "onTimeRate": 99.2,
+    "balance": 286.4,
+    "tips": 6.5,
+    "bonus": 18.2
+  },
+  "week": {
+    "income": 846.6,
+    "orders": 79,
+    "onlineMinutes": 2140,
+    "onTimeRate": 98.7,
+    "balance": 286.4,
+    "tips": 32.5,
+    "bonus": 96.2
+  },
+  "month": {
+    "income": 8268.4,
+    "orders": 312,
+    "onlineMinutes": 8620,
+    "onTimeRate": 98.9,
+    "balance": 286.4,
+    "tips": 126.8,
+    "bonus": 358.6
+  },
+  "incomeSeries": {
+    "today": [
+      18,
+      26,
+      21,
+      35,
+      30,
+      44,
+      38,
+      52,
+      48,
+      66,
+      58,
+      76
+    ],
+    "week": [
+      96,
+      124,
+      108,
+      142,
+      136,
+      158,
+      182
+    ],
+    "month": [
+      238,
+      286,
+      312,
+      298,
+      356,
+      388,
+      412,
+      438
+    ]
+  },
+  "transactions": [
+    {
+      "id": "TX2026102501",
+      "title": "订单收入",
+      "subtitle": "今天 15:42 · 订单 #NJ2108",
+      "amount": 11.7,
+      "type": "income"
+    },
+    {
+      "id": "TX2026102502",
+      "title": "天气奖励",
+      "subtitle": "今天 14:18 · 雨天冲单活动",
+      "amount": 3.0,
+      "type": "income"
+    },
+    {
+      "id": "TX2026102503",
+      "title": "订单收入",
+      "subtitle": "今天 13:56 · 订单 #NJ2106",
+      "amount": 8.5,
+      "type": "income"
+    },
+    {
+      "id": "TX2026102401",
+      "title": "订单收入",
+      "subtitle": "昨天 19:26 · 订单 #NJ2088",
+      "amount": 10.6,
+      "type": "income"
+    },
+    {
+      "id": "TX2026102402",
+      "title": "装备押金",
+      "subtitle": "昨天 11:02 · 扣款",
+      "amount": -20.0,
+      "type": "expense"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "TASK-01",
+      "title": "午高峰冲单任务",
+      "progress": "6/10",
+      "reward": "再完成 4 单得 8 元",
+      "status": "进行中"
+    },
+    {
+      "id": "TASK-02",
+      "title": "安全骑行学习",
+      "progress": "2/3",
+      "reward": "完成得 5 元奖励",
+      "status": "进行中"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "RW-01",
+      "title": "单单最高得3元，奖励无上限",
+      "period": "进行中 · 24:00结束",
+      "progress": "已完成0单",
+      "progressValue": 0.08
+    },
+    {
+      "id": "RW-02",
+      "title": "完成签到任务得10元，最高得32元",
+      "period": "进行中 · 24:00结束",
+      "progress": "今日未签到 · 4/7单",
+      "progressValue": 0.57
+    }
+  ],
+  "plans": [
+    {
+      "id": "plan-1",
+      "glyph": "乐",
+      "color": "#7357FF",
+      "title": "乐跑计划"
+    },
+    {
+      "id": "plan-2",
+      "glyph": "畅",
+      "color": "#00B578",
+      "title": "畅跑计划"
+    },
+    {
+      "id": "plan-3",
+      "glyph": "核",
+      "color": "#FF6A00",
+      "title": "同城核心"
+    },
+    {
+      "id": "plan-4",
+      "glyph": "远",
+      "color": "#4056FF",
+      "title": "乐跑远"
+    },
+    {
+      "id": "plan-5",
+      "glyph": "驻",
+      "color": "#1A66FF",
+      "title": "驻跑计划"
+    },
+    {
+      "id": "plan-6",
+      "glyph": "众",
+      "color": "#F05A28",
+      "title": "时段任务"
+    },
+    {
+      "id": "plan-7",
+      "glyph": "线",
+      "color": "#FF7A00",
+      "title": "驻线活动"
+    },
+    {
+      "id": "plan-8",
+      "glyph": "壹",
+      "color": "#A33BEF",
+      "title": "1对1急送"
+    },
+    {
+      "id": "plan-9",
+      "glyph": "专",
+      "color": "#E2A513",
+      "title": "专送骑手"
+    }
+  ],
+  "workEssentials": [
+    {
+      "id": "gear-1",
+      "icon": "shield",
+      "title": "安全中心",
+      "subtitle": "头盔与保险"
+    },
+    {
+      "id": "gear-2",
+      "icon": "headset",
+      "title": "骑手客服",
+      "subtitle": "在线答疑"
+    },
+    {
+      "id": "gear-3",
+      "icon": "bag",
+      "title": "装备商城",
+      "subtitle": "入口"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "note-1",
+      "title": "午高峰奖励已开启",
+      "body": "11:00-13:30 完成指定单量，可获额外奖励。",
+      "time": "10 分钟前",
+      "unread": true
+    },
+    {
+      "id": "note-2",
+      "title": "天气提醒",
+      "body": "局部有阵雨，请携带雨具并注意路面湿滑。",
+      "time": "36 分钟前",
+      "unread": true
+    },
+    {
+      "id": "note-3",
+      "title": "安全骑行学习",
+      "body": "你还有 1 节安全课程未完成。",
+      "time": "昨天",
+      "unread": false
+    }
+  ]
+}

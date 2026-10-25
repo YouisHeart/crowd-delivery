@@ -1,0 +1,23 @@
+{
+  "name": "meituan-zhongbao-learning-demo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173",
+    "test:ui": "node scripts/ui-flow.mjs",
+    "test:ui:audit": "node scripts/ui-audit.mjs",
+    "test:ui:interactions": "node scripts/ui-interactions.mjs"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "playwright-core": "^1.64.1",
+    "vite": "^6.0.7"
+  }
+}

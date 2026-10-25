@@ -1,0 +1,41 @@
+{
+  "defaultCityId": "nanjing",
+  "cities": [
+    {
+      "id": "nanjing",
+      "name": "南京",
+      "province": "江苏",
+      "area": "鼓楼区",
+      "label": "南京 · 鼓楼",
+      "center": "新街口",
+      "lat": 32.0603,
+      "lng": 118.7969,
+      "hot": true,
+      "notice": "午高峰运力紧张，注意骑行安全"
+    },
+    {
+      "id": "hefei",
+      "name": "合肥",
+      "province": "安徽",
+      "area": "蜀山区",
+      "label": "合肥 · 蜀山",
+      "center": "天鹅湖",
+      "lat": 31.8206,
+      "lng": 117.2272,
+      "hot": true,
+      "notice": "政务区订单较多，建议提前规划路线"
+    },
+    {
+      "id": "hangzhou",
+      "name": "杭州",
+      "province": "浙江",
+      "area": "拱墅区",
+      "label": "杭州 · 拱墅",
+      "center": "武林广场",
+      "lat": 30.2741,
+      "lng": 120.1551,
+      "hot": true,
+      "notice": "景区周边部分道路限行，请遵守交规"
+    }
+  ]
+}

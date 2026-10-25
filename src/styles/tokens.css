@@ -1,0 +1,35 @@
+:root {
+  --font-sans: "PingFang SC", "HarmonyOS Sans SC", "Microsoft YaHei", "Noto Sans SC",
+    -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-numeric: "DIN Alternate", "Bahnschrift", "SF Pro Display", var(--font-sans);
+
+  --yellow: #ffd100;
+  --yellow-deep: #f6c500;
+  --yellow-soft: #fff8d6;
+  --ink: #17191d;
+  --text: #252a31;
+  --muted: #7f8691;
+  --muted-2: #9aa1ab;
+  --line: #edeff2;
+  --line-strong: #e1e4e8;
+  --bg: #f4f5f7;
+  --card: #ffffff;
+  --red: #ff453a;
+  --red-soft: #fff1ef;
+  --orange: #ff7a00;
+  --orange-soft: #fff4e8;
+  --green: #00b578;
+  --green-soft: #eafaf4;
+  --blue: #3478f6;
+  --dark-card: #1c1e23;
+
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+
+  --shadow-card: 0 6px 18px rgba(26, 30, 36, 0.045);
+  --shadow-float: 0 12px 34px rgba(17, 20, 24, 0.16);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
