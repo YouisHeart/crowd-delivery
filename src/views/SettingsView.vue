@@ -60,7 +60,7 @@ function openPolicy(title) {
   genericText.value =
     title === '隐私政策'
       ? '仅使用浏览器本地存储保存在线状态、城市选择、订单状态和界面设置。\n\n不会采集位置、通讯录、相机、麦克风、设备标识或任何真实骑手账号信息，也不会向服务器上传数据。\n\n所有商家、顾客、地址和收益均为虚构数据。'
-      : '本应用是独立开发的界面样例，与美团官方无关。\n\n页面中的接单、取货、送达、转单、收益等流程均为本地，不构成真实的配送服务协议、劳动合作关系或支付承诺。\n\n请勿将本用于冒充官方应用或从事任何真实业务。'
+      : '本应用是独立开发的界面样例，与狗团官方无关。\n\n页面中的接单、取货、送达、转单、收益等流程均为本地，不构成真实的配送服务协议、劳动合作关系或支付承诺。\n\n请勿将本用于冒充官方应用或从事任何真实业务。'
   policyOpen.value = true
 }
 
@@ -155,7 +155,7 @@ function confirmLogout() {
         <SettingsRow icon="headset" title="反馈" description="填写本地反馈" icon-tone="green" @click="feedbackOpen = true" />
         <SettingsRow icon="doc" title="协议规则" @click="openPolicy('协议规则')" />
         <SettingsRow icon="lock" title="隐私政策" @click="openPolicy('隐私政策')" />
-        <SettingsRow icon="info" title="关于美团众包" description="学习版本与免责声明" @click="aboutOpen = true" />
+        <SettingsRow icon="info" title="关于狗团众包" description="学习版本与免责声明" @click="aboutOpen = true" />
       </section>
 
       <section class="settings-group">
@@ -174,7 +174,7 @@ function confirmLogout() {
       <button class="logout-button" type="button" @click="logoutOpen = true">退出登录</button>
 
       <div class="settings-version">
-        <span>美团众包</span>
+        <span>狗团众包</span>
         <span>v{{ appVersion }}</span>
       </div>
     </div>
@@ -224,7 +224,7 @@ function confirmLogout() {
       </div>
     </AppModal>
 
-    <AppModal v-model="aboutOpen" title="关于美团众包 · 学习" subtitle="独立开发，与美团官方无关" confirm-text="我知道了" hide-cancel
+    <AppModal v-model="aboutOpen" title="关于狗团众包 · 学习" subtitle="独立开发，与狗团官方无关" confirm-text="我知道了" hide-cancel
       @confirm="aboutOpen = false">
       <div class="about-block">
         <p>这是一个参考公开可见骑手工作台界面、使用 Vue 3 + CSS + 本地 JSON 数据独立重建的 H5 学习。</p>

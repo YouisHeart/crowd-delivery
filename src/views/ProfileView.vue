@@ -208,7 +208,7 @@ function openSign() {
       </section>
 
       <div class="profile-version">
-        <span>美团众包</span>
+        <span>狗团众包</span>
         <span>v1.0.0</span>
       </div>
     </main>

@@ -147,7 +147,7 @@ npm run test:ui:audit
 
 ```json
 {
-  "title": "首页 · 美团众包",
+  "title": "首页 · 狗团众包",
   "route": "#/home",
   "orderCards": 3,
   "navItems": 5,

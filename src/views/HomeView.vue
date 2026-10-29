@@ -202,7 +202,7 @@ const menuEntries = [
         </button>
         <div class="home-brand">
           <span class="home-brand__mark">众</span>
-          <span class="home-brand__name">美团众包</span>
+          <span class="home-brand__name">狗团众包</span>
         </div>
         <button class="home-icon-button home-bell" type="button" aria-label="消息" @click="openNotifications">
           <Icon name="bell" :size="22" />

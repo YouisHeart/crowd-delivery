@@ -87,7 +87,7 @@ const pageTitles = {
 
 router.afterEach((to) => {
   const title = pageTitles[to.name] || ''
-  document.title = `${title} · 美团众包`
+  document.title = `${title} · 狗团众包`
 })
 
 export default router
